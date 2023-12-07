@@ -32,6 +32,7 @@ bash
 Copy code
 python led_control.py
 A GUI window with "LED ON" and "LED OFF" buttons will appear.
+The number at the top will be the potentiometer value.
 
 Use these buttons to control the LED on your Arduino.
 
